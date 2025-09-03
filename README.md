@@ -1,26 +1,13 @@
 # Hi there Sagar Here 👋  
 
-I’m passionate about exploring the intersection of **AI, automation, and problem-solving**.  
-My current focus is on **LangChain**, where I experiment with connecting LLMs to real-world data, APIs, and tools to create smarter, more adaptive applications.  
+I'm a builder and a problem-solver who loves where AI meets automation. Right now, I'm deep in the world of **LangChain**, figuring out how to make LLMs do cool, practical things by connecting them to APIs and data.
 
----
+I've also spent the last 4+ years crafting **OpenWRT firmware** and networking solutions—think Embedded Linux, VPNs, and making networks smarter and faster.
 
-### 🔹 What I Do
-- 🧠 AI & LLMs: Building intelligent workflows with LangChain  
-- 🌐 Networking: 4+ years of experience in **OpenWRT**, **Embedded Linux**, **VPN tunneling**, **IPv6**, and **SD-WAN**  
-- 🔒 Delivering **secure, high-performance firmware** and **network automation solutions**  
+**When I'm not staring at a terminal:**
+- 💪 Pushing weights at the gym.
+- 🏍️ Cruising on my motorcycle.
+- 🎮 Getting competitive in FPS games.
+- ♟️ Outsmarting friends in chess.
 
----
-
-### 🔹 Beyond Tech
-When I’m not coding or solving system bottlenecks, you’ll probably find me:  
-- 🏋️‍♂️ Hitting the gym  
-- 🏍️ Riding my bike on open roads  
-- 🎮 Playing FPS games  
-- ♟️ Strategizing over a chessboard  
-
----
-
-### 🔹 Let’s Connect
-I’m always open to collaborating or just geeking out about tech.  
-Feel free to reach out and connect 🚀  
+If any of that sounds interesting to you, drop me a line! I'm always down to chat about tech, potential projects, or the best FPS strategies.
