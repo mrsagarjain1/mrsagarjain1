@@ -1,7 +1,7 @@
 # 🎮 Hi 👋, I'm Sagar Jain
 
 **AI Engineer | Backend Developer | Esports Software Developer**  
-Founder of **valocoach.ai** (acquired by **Global Esports**)
+Founder of **valocoach.ai** 
 
 ✉️ **Reach me at:** [mrsagarjain1@gmail.com](mailto:mrsagarjain1@gmail.com)
 
@@ -66,3 +66,4 @@ Founder of **valocoach.ai** (acquired by **Global Esports**)
 
 ### 🎯 Motto
 **Build fast. Learn faster. Play to win.**
+
