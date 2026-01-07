@@ -10,7 +10,6 @@ Founder of **valocoach.ai**
 ## 🚀 About Me
 
 - 🔥 **Founder of valocoach.ai** — an AI-powered Valorant coaching & analysis platform  
-  *(Acquired by Global Esports)*
 - 🤖 **Currently working on:** AI systems for gaming & esports
 - 🌱 **Currently learning:** RAG, Agentic AI, Deep Learning, LangGraph, LangChain
 - 🤝 **Open to collaborate on:** AI products, gaming tech, esports platforms
@@ -66,4 +65,5 @@ Founder of **valocoach.ai**
 
 ### 🎯 Motto
 **Build fast. Learn faster. Play to win.**
+
 
