@@ -9,7 +9,7 @@ Founder of **valocoach.ai**
 
 ## 🚀 About Me
 
-- 🔥 **Founder of valocoach.ai** — an AI-powered Valorant coaching & analysis platform  
+- 🔥 **Founder of valocoach.ai** - an AI-powered Valorant coaching & analysis platform  
 - 🤖 **Currently working on:** AI systems for gaming & esports
 - 🌱 **Currently learning:** RAG, Agentic AI, Deep Learning, LangGraph, LangChain
 - 🤝 **Open to collaborate on:** AI products, gaming tech, esports platforms
