@@ -29,18 +29,6 @@
 
 </div>
 
-## 🧬 Bio
-
-```yaml
-name: Sagar Jain
-role: AI Engineer & Esports Software Developer
-founded: valocoach.ai (AI powered Valorant coaching platform)
-currently_building: AI systems that make gamers unstoppable
-currently_learning: [RAG, Agentic AI, Deep Learning, LangGraph]
-ask_me_about: [AI backends, LLM pipelines, game analytics, startups]
-superpower: Shipping 10x faster when games are involved 🎮
-```
-
 <details>
 <summary><b>📖 More about me</b></summary>
 
