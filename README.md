@@ -25,15 +25,6 @@
 
 <div align="center">
 
-```diff
-@ initializing sagar.exe ... @
-+ STATUS  : ONLINE
-+ ROLE    : AI ENGINEER  /  ESPORTS SOFTWARE DEVELOPER
-+ FOUNDER : valocoach.ai
-+ MODE    : BUILD FAST  ·  LEARN FASTER  ·  PLAY TO WIN
-! system ready. welcome to my profile.
-```
-
 > ### *"Security is just an illusion shaped by our need to feel in control."*
 
 </div>
@@ -150,19 +141,6 @@ Exploring agentic pipelines, retrieval augmented coaching, and deep learning mod
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00F0FF,100:0F2027&height=3" alt="divider" />
 
-## 📌 Repo Showcase
-
-<div align="center">
-
-<!-- Add more pins by copying a block and changing repo= to a real repository name -->
-<a href="https://github.com/mrsagarjain1/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrsagarjain1&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" alt="Featured repository: portfolio" />
-</a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00F0FF,100:0F2027&height=3" alt="divider" />
-
 ## 🧠 Arsenal
 
 <div align="center">
@@ -204,10 +182,6 @@ Exploring agentic pipelines, retrieval augmented coaching, and deep learning mod
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsagarjain1&theme=default&hide_border=true&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsagarjain1&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top languages" />
 </picture>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mrsagarjain1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="98%" alt="GitHub trophies" />
 
 </div>
 
