@@ -30,9 +30,6 @@
 </div>
 
 <details>
-<summary><b>📖 More about me</b></summary>
-
-<br/>
 
 I build AI systems where intelligence meets gameplay. My focus is backend engineering and applied AI: designing LLM pipelines, retrieval augmented systems, and analytics that turn messy game data into decisions players can act on.
 
