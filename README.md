@@ -23,13 +23,10 @@
 <!-- CUSTOM CYAN DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00F0FF,100:0F2027&height=3" alt="divider" />
 
-<div align="center">
 
-> ### *"Security is just an illusion shaped by our need to feel in control."*
 
-</div>
-
-<details>
+<details open>
+<summary><b>📖 More about me</b></summary>
 
 I build AI systems where intelligence meets gameplay. My focus is backend engineering and applied AI: designing LLM pipelines, retrieval augmented systems, and analytics that turn messy game data into decisions players can act on.
 
