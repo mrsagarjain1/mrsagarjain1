@@ -7,16 +7,17 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mrsagarjain.com-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mrsagarjain.com/)
-[![valocoach.ai](https://img.shields.io/badge/valocoach.ai-Visit%20Website-FF4655?style=for-the-badge&logo=valorant&logoColor=white)](https://www.valocoach.ai/)
-[![Play Store](https://img.shields.io/badge/valocoach.ai-Get%20on%20Play%20Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.valocoachai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=flat&logo=google-chrome&logoColor=00F0FF)](https://www.mrsagarjain.com/)
+[![Website](https://img.shields.io/badge/valocoach.ai-1a1b27?style=flat&logo=safari&logoColor=FF4655)](https://www.valocoach.ai/)
+[![Play Store](https://img.shields.io/badge/Android-1a1b27?style=flat&logo=google-play&logoColor=34A853)](https://play.google.com/store/apps/details?id=com.valocoachai)
+[![App Store](https://img.shields.io/badge/iOS-1a1b27?style=flat&logo=app-store&logoColor=0D96F6)](https://apps.apple.com/us/app/valocoach-ai/id6781956574)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mrsagarjain1&style=flat-square&color=00F0FF&label=PROFILE+VIEWS" alt="Profile view counter" />
-<img src="https://img.shields.io/badge/Focus-AI%20x%20Gaming-00F0FF?style=flat-square" alt="Focus area badge" />
-<img src="https://img.shields.io/badge/Status-Building%20%F0%9F%9A%80-success?style=flat-square" alt="Current status badge" />
-<img src="https://img.shields.io/badge/Based%20in-India%20%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=flat-square" alt="Location badge" />
+<img src="https://komarev.com/ghpvc/?username=mrsagarjain1&style=flat&color=00F0FF&label=Profile+Views" alt="Profile view counter" />
+<img src="https://img.shields.io/badge/Focus-AI%20x%20Gaming-00F0FF?style=flat&labelColor=1a1b27" alt="Focus area badge" />
+<img src="https://img.shields.io/badge/Status-Building-34A853?style=flat&labelColor=1a1b27" alt="Current status badge" />
+<img src="https://img.shields.io/badge/Based%20in-India-FF9933?style=flat&labelColor=1a1b27" alt="Location badge" />
 
 </div>
 
@@ -92,8 +93,9 @@ Turning raw gameplay into actionable intelligence. Real time analysis, personali
 
 `Python` · `FastAPI` · `LLMs` · `RAG` · `Game Analytics`
 
-[![Website](https://img.shields.io/badge/Live-valocoach.ai-FF4655?style=flat-square&logo=valorant&logoColor=white)](https://www.valocoach.ai/)
-[![Android](https://img.shields.io/badge/Android-Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.valocoachai)
+[![Website](https://img.shields.io/badge/Live%20Site-1a1b27?style=flat&logo=safari&logoColor=FF4655)](https://www.valocoach.ai/)
+[![Android](https://img.shields.io/badge/Android-1a1b27?style=flat&logo=google-play&logoColor=34A853)](https://play.google.com/store/apps/details?id=com.valocoachai)
+[![iOS](https://img.shields.io/badge/iOS-1a1b27?style=flat&logo=app-store&logoColor=0D96F6)](https://apps.apple.com/us/app/valocoach-ai/id6781956574)
 
 </td>
 <td width="50%" valign="top">
@@ -106,18 +108,11 @@ Exploring agentic pipelines, retrieval augmented coaching, and deep learning mod
 
 `Agentic AI` · `LangGraph` · `Deep Learning` · `Vector Search`
 
-[![Status](https://img.shields.io/badge/Status-In%20the%20Lab%20%F0%9F%A7%AA-00F0FF?style=flat-square)](https://github.com/mrsagarjain1)
+[![Status](https://img.shields.io/badge/In%20the%20Lab-1a1b27?style=flat&logo=react&logoColor=00F0FF)](https://github.com/mrsagarjain1)
 
 </td>
 </tr>
 </table>
-
-<!-- SCREENSHOT STRIP: replace these with real valocoach.ai screenshots placed in an /assets folder -->
-<!--
-<img src="./assets/valocoach-1.png" width="32%" alt="valocoach.ai dashboard" />
-<img src="./assets/valocoach-2.png" width="32%" alt="valocoach.ai analysis view" />
-<img src="./assets/valocoach-3.png" width="32%" alt="valocoach.ai coaching screen" />
--->
 
 </div>
 
@@ -131,11 +126,11 @@ Exploring agentic pipelines, retrieval augmented coaching, and deep learning mod
 
 <br/><br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-%23121011.svg?style=for-the-badge&logo=python&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-%23000000.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-%237B61FF.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic%20AI](https://img.shields.io/badge/Agentic%20AI-%2300F0FF.svg?style=for-the-badge&logo=robotframework&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1a1b27?style=flat&logo=langchain&logoColor=00F0FF)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1b27?style=flat&logo=langgraph&logoColor=00F0FF)
+![Pinecone](https://img.shields.io/badge/Pinecone-1a1b27?style=flat&logo=pinecone&logoColor=00F0FF)
+![RAG](https://img.shields.io/badge/RAG-1a1b27?style=flat&logo=openai&logoColor=00F0FF)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-1a1b27?style=flat&logo=robotframework&logoColor=00F0FF)
 
 </div>
 
@@ -210,13 +205,14 @@ Exploring agentic pipelines, retrieval augmented coaching, and deep learning mod
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mrsagarjain.com/)
-[![valocoach.ai](https://img.shields.io/badge/valocoach.ai-FF4655?style=for-the-badge&logo=valorant&logoColor=white)](https://www.valocoach.ai/)
-[![Play Store](https://img.shields.io/badge/Play%20Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.valocoachai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrsagarjain1/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrsagarjain1)
-[![X](https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mrsagarjain1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrsagarjain1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=flat&logo=google-chrome&logoColor=00F0FF)](https://www.mrsagarjain.com/)
+[![Website](https://img.shields.io/badge/valocoach.ai-1a1b27?style=flat&logo=safari&logoColor=FF4655)](https://www.valocoach.ai/)
+[![Play Store](https://img.shields.io/badge/Android-1a1b27?style=flat&logo=google-play&logoColor=34A853)](https://play.google.com/store/apps/details?id=com.valocoachai)
+[![App Store](https://img.shields.io/badge/iOS-1a1b27?style=flat&logo=app-store&logoColor=0D96F6)](https://apps.apple.com/us/app/valocoach-ai/id6781956574)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mrsagarjain1/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=flat&logo=github&logoColor=ffffff)](https://github.com/mrsagarjain1)
+[![X](https://img.shields.io/badge/X-1a1b27?style=flat&logo=x&logoColor=ffffff)](https://x.com/mrsagarjain1)
+[![Email](https://img.shields.io/badge/Email-1a1b27?style=flat&logo=gmail&logoColor=EA4335)](mailto:mrsagarjain1@gmail.com)
 
 </div>
 
